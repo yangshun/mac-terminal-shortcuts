@@ -33,8 +33,8 @@ Commands with "Cut" will add the cut portion to the clipboard.
 |Alt + D|Delete the word after the cursor|
 |Ctrl + U|Cut the line before the cursor|
 |Ctrl + Y|Paste the previous cut text|
-|Ctrl + T|Swap the last two characters before the cursor|
 |Ctrl + _|Undo your last key press. You can repeat this to undo multiple times|
+|Ctrl + T|Swap the last two characters before the cursor|
 |Esc + T|Swap the last two words before the cursor|
 
 ### History
@@ -43,8 +43,8 @@ Commands with "Cut" will add the cut portion to the clipboard.
 |---|---|
 |Ctrl + P|Previous command|
 |Ctrl + R|Next command|
-|Ctrl + S|Forward search within history|
-|Ctrl + R|Reverse search within history|
+|Ctrl + S|Forward search|
+|Ctrl + R|Reverse search|
 |Ctrl + O|End search and execute command|
 |Ctrl + G|Abort search (restores original line)|
 
