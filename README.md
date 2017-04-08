@@ -29,7 +29,7 @@ Commands with "Cut" will add the cut portion to the clipboard.
 |Ctrl + D|Delete character under the cursor|
 |Ctrl + H|Delete character before the cursor|
 |Ctrl + K|Cut everything from the cursor to end of the line|
-|Ctrl + W|Cut the current word before the cursor|
+|Ctrl + W / Alt + Backspace|Cut the current word before the cursor|
 |Alt + D|Delete the word after the cursor|
 |Ctrl + U|Cut the line before the cursor|
 |Ctrl + Y|Paste the previous cut text|
