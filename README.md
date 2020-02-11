@@ -42,7 +42,7 @@ Commands with "Cut" will add the cut portion to the clipboard.
 |Shortcut|Description|
 |---|---|
 |Ctrl + P|Previous command|
-|Ctrl + R|Next command|
+|Ctrl + N|Next command|
 |Ctrl + S|Forward search|
 |Ctrl + R|Reverse search|
 |Ctrl + O|End search and execute command|
